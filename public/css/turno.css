@@ -1,0 +1,53 @@
+.row{
+    margin-bottom: 0;
+}
+
+div{
+    border: none;
+}
+
+.marginCol{
+    min-height: 0;
+    padding: 0 0;
+}
+
+.Wrap{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+}
+
+.Widget{
+    width:100%;
+}
+
+.Widget p{
+    display:inline-block;
+    line-height:16px;
+}
+
+.Fecha{
+    font-family:Arial,Helvetica,Sans-serif;
+    text-align:center;
+    font-size:30px;
+    width:100%;
+}
+
+.Reloj{
+    font-family:Arial,Helvetica,Sans-serif;
+    text-align:center;
+    font-size:70px;
+    width:100%;
+}
+
+.Reloj .Segundos,
+.Reloj .AM-PM{
+    font-size:40px;
+    display:inline-block;
+}
+
+h4, h5,h6 {
+    font-weight: bold;
+    font-size: 20px  !important;
+    color:#000;
+}
